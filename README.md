@@ -1,2 +1,4 @@
 # General-data-analysis
-sales visualization and customer segmentation
+sales visualization
+customer segmentation
+logistics regression model
